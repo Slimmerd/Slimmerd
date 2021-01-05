@@ -15,8 +15,8 @@
 - 🔭 Working on `Two fullstack projects`
 - 🌱 I’m currently learning `Fullstack Web Development`
 - 👯 Looking for internships
-- 🤔 Need some practice with `technical interviews`
-- ⚡ Future plans: `Learn ML and AI`
+- 🤔 Need some practice with `Technical interviews`
+- ⚡ Future plans: `To learn Machine Learning and Artificial Intelligence`
 - 💬 You can ask me about anything: [here](https://www.instagram.com/nrkkkkk_/)
 
 ### Stats: 
