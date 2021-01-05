@@ -20,10 +20,12 @@
 - 💬 You can ask me about anything: [here](https://www.instagram.com/nrkkkkk_/)
 
 ### Stats: 
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slimmerd&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Slimmerd's github stats](https://github-readme-stats.vercel.app/api/?username=Slimmerd&count_private=true&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=2CE50&bg_color=ffffff) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slimmerd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Slimmerd's github stats](https://github-readme-stats.vercel.app/api/?username=Slimmerd&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=2CE50&bg_color=ffffff) 
-
+</div>
 
 
 <!--
