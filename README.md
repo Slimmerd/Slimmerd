@@ -31,11 +31,11 @@
 
 ### About me: 
 
-- 🔭 Working on `Two fullstack projects`
+- 🔭 Working on `web fullstack project`
 - 🌱 I’m currently learning `Fullstack Web Development`
 - 👯 Looking for internships
 - 🤔 Need some practice with `Technical interviews`
-- ⚡ Future plans: `To learn Machine Learning and Artificial Intelligence`
+- ⚡ Future plans: `To learn IOS development`
 - 💬 You can ask me about anything: [here](https://www.instagram.com/nrkkkkk_/)
 
 ### Stats: 
