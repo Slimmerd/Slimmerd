@@ -31,12 +31,12 @@
 
 ### About me: 
 
-- 🔭 Working on `web fullstack project`
-- 🌱 I’m currently learning `Fullstack Web Development`
+- 🔭 Working on `Habit and todo manager app`
+- 🌱 I’m currently learning `Flutter Development`
 - 👯 Looking for internships
 - 🤔 Need some practice with `Technical interviews`
 - ⚡ Future plans: `To learn IOS development`
-- 💬 You can ask me about anything: [here](https://www.instagram.com/nrkkkkk_/)
+- 💬 You can ask me about anything by email: [here](mailto:daniil.silin@gmail.com)
 
 ### Stats: 
 <div align="center">
