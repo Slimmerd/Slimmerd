@@ -31,11 +31,11 @@
 
 ### About me: 
 
-- 🔭 Working on `Habit and todo manager app`
-- 🌱 I’m currently learning `Flutter Development`
+- 🔭 Working on `something interesting`
+- 🌱 I’m currently learning `Frontend Development`
 - 👯 Looking for internships
 - 🤔 Need some practice with `Technical interviews`
-- ⚡ Future plans: `To learn IOS development`
+- ⚡ Future plans: `Improve Frontend skills`
 - 💬 You can ask me about anything by email: [here](mailto:daniil.silin@gmail.com)
 
 ### Stats: 
