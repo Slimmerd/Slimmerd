@@ -31,11 +31,11 @@
 
 ### About me: 
 
-- 🔭 Working on `something interesting`
-- 🌱 I’m currently learning `Frontend Development`
+- 🔭 Working on `getting new job`
+- 🌱 I’m currently learning `Django dev`
 - 👯 Looking for internships
 - 🤔 Need some practice with `Technical interviews`
-- ⚡ Future plans: `Improve Frontend skills`
+- ⚡ Future plans: `Move to backend development`
 - 💬 You can ask me about anything by email: [here](mailto:daniil.silin@gmail.com)
 
 ### Stats: 
