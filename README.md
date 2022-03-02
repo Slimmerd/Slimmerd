@@ -33,11 +33,8 @@
 
 ### About me: 
 
-- 🔭 Working on `getting new job`
-- 🌱 I’m currently learning `Django dev`
-- 👯 Looking for internships
-- 🤔 Need some practice with `Technical interviews`
-- ⚡ Future plans: `Move to backend development`
+- 🔭 Working on `???`
+- 👯 Looking for a job
 - 💬 You can ask me about anything by email: [here](mailto:daniil.silin@gmail.com)
 
 ### Stats: 
