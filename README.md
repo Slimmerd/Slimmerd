@@ -12,7 +12,7 @@
 
 <h2>Technlogies I use</h3>
 <p>
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-F54A2A?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img alt="UN" src="https://img.shields.io/badge/Unity-%232C5263?style=for-the-badge&logo=unity&logoColor=white" />
   <img alt="CS" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
